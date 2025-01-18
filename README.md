@@ -51,21 +51,22 @@
 
 <h2 align="center">🏆 Projects</h2>
 
-<h3 align="center">1. TechConF</h3>
+<h3 align="center">1. Casio Website Clone</h3>
 
 - **Project Type**: Fullstack  
 - **Technologies**: HTML, CSS3 & Tailwind CSS, JavaScript, AOS, FontAwesome  
-- **Description**: TechConf is a responsive website for tech conferences, enhancing visibility, registration, and attendee experience using modern trends.  
-- **Deployed Link**: [Deployed App Link](https://tech-conf.netlify.app/)  
-- **GitHub Link**: [Code Walkthrough](https://github.com/Humancodes/Sustainable_Coders_013)  
+- **Description**: This project is a clone of the official Casio website, developed as part of a construct week assignment. The primary objective is to replicate the core functionalities and design of the                            original site, providing users with a seamless experience similar to the official Casio platform. This includes features such as product browsing, sorting, user authentication, and support                         pages.  
+- **Deployed Link**: [Deployed App Link](https://bright-seahorse-020d73.netlify.app/)  
+- **GitHub Link**: [Code Walkthrough](https://github.com/AryaKS01/Construct_Week_Casio_Website?tab=readme-ov-file)  
 
-<h3 align="center">2. Book-Ease</h3>
+<h3 align="center">2. Yelp-Camp</h3>
 
 - **Project Type**: Fullstack  
-- **Technologies**: React, Bootstrap, Chart.JS, Nucleo Icons, JQuery  
-- **Description**: BookEase is a web-based application simplifying scheduling for professionals, offering availability settings, bookings, schedule management, notifications, and calendar integration.  
-- **Deployed Link**: [Deployed App Link](https://book-ease.netlify.app/)  
-- **GitHub Link**: [Code Walkthrough](https://github.com/shubham-sangale-11/Book-Ease)  
+- **Technologies**: React, Bootstrap, HTML, CSS3, JavaScript, Express, NodeJS, MongoDB
+- **Description**: YelpCamp is a full-stack website project where users can create and review campgrounds. In order to review or create a campground, you must have an account. 
+                    This project is being created created using Node.js, Express, MongoDB, and Bootstrap. Passport.js is used to handle authentication.  
+- **Deployed Link**: [Deployed App Link]()  
+- **GitHub Link**: [Code Walkthrough](https://github.com/AryaKS01/YelpCamp-Project)  
 
 <h2 align="center">📊 My GitHub Statistics</h2>
 
