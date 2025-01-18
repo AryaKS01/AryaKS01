@@ -83,7 +83,6 @@
   </div>
  
 <div align="center">
-<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AryaKS01&theme=dark" alt="GitHub Streak" /></a> 
-</p>
+  <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AryaKS01&theme=dark" alt="GitHub Streak" /></a> </p>
   </div>
 </div>
