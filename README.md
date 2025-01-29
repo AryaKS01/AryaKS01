@@ -15,7 +15,7 @@
 <br><br>
 🤔 Check Out my <a href="#">Resume</a>
 <br><br>
-👨‍💻 Know more about me <a href="#">Portfolio</a>
+👨‍💻 Know more about me <a href="https://aryaportfolio-nine.vercel.app/">Portfolio</a>
 <br><br>
 😄 All of my projects are available at <a href="https://github.com/AryaKS01?tab=repositories">My Github Repositories</a>
 <br><br>
