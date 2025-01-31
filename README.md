@@ -13,7 +13,7 @@
 
 🌱 I’m currently learning **Node.js**.
 <br><br>
-🤔 Check Out my <a href="#">Resume</a>
+🤔 Check Out my <a href="https://github.com/AryaKS01?tab=repositories">Resume</a> ([Download PDF](https://github.com/AryaKS01/README/blob/main/AryaKumarSundaram-NodeJSDeveloper-bUl1.pdf))
 <br><br>
 👨‍💻 Know more about me <a href="https://aryaportfolio-nine.vercel.app/">Portfolio</a>
 <br><br>
@@ -21,30 +21,22 @@
 <br><br>
 💬 Ask me about **HTML, CSS, JavaScript, SQL, Node.js, Express.js, Java, MongoDB**
 <br><br>
-⚡ How to reach me aryaworks24@gmail.com
+⚡ How to reach me: aryaworks24@gmail.com
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <!-- Programming Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-   <a href="https://java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java" width="40" height="40"/> </a>
-
-  <!-- Frontend -->
+  <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-
-  <!-- Database -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-
-  <!-- Tools -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
 </p>
@@ -54,19 +46,26 @@
 <h3 align="center">1. Casio Website Clone</h3>
 
 - **Project Type**: Fullstack  
-- **Technologies**: HTML, CSS3 & Tailwind CSS, JavaScript, AOS, FontAwesome  
-- **Description**: This project is a clone of the official Casio website, developed as part of a construct week assignment. The primary objective is to replicate the core functionalities and design of the                            original site, providing users with a seamless experience similar to the official Casio platform. This includes features such as product browsing, sorting, user authentication, and support                         pages.  
-- **Deployed Link**: [Deployed App Link](https://bright-seahorse-020d73.netlify.app/)  
+- **Technologies**: HTML, CSS3, Tailwind CSS, JavaScript, AOS, FontAwesome  
+- **Description**: This project is a clone of the official Casio website, developed as part of a construct week assignment. The primary objective is to replicate the core functionalities and design of the original site, providing users with a seamless experience similar to the official Casio platform. Features include product browsing, sorting, user authentication, and support pages.  
+- **Deployed Link**: [Deployed App Link](https://beamish-swan-e2cb71.netlify.app/)  
 - **GitHub Link**: [Code Walkthrough](https://github.com/AryaKS01/Construct_Week_Casio_Website?tab=readme-ov-file)  
 
-<h3 align="center">2. Yelp-Camp</h3>
+<h3 align="center">2. Journey Nest</h3>
 
 - **Project Type**: Fullstack  
-- **Technologies**: React, Bootstrap, HTML, CSS3, JavaScript, Express, NodeJS, MongoDB
-- **Description**: YelpCamp is a full-stack website project where users can create and review campgrounds. In order to review or create a campground, you must have an account. 
-                    This project is being created created using Node.js, Express, MongoDB, and Bootstrap. Passport.js is used to handle authentication.  
-- **Deployed Link**: [Deployed App Link]()  
-- **GitHub Link**: [Code Walkthrough](https://github.com/AryaKS01/YelpCamp-Project)  
+- **Technologies**: Node.js, Express.js, MongoDB, HTML5, CSS3, JavaScript, EJS, Passport.js  
+- **Description**: A travel listing platform where users can create, browse, and review travel destinations. Implemented secure user authentication, session management, and dynamic data visualization for user interactions. Integrated MongoDB for efficient data storage and retrieval.  
+- **Deployed Link**: [Live Demo](https://journeynest.onrender.com/listings)  
+- **GitHub Link**: [Repository](https://github.com/AryaKS01/journey-nest/tree/main)  
+
+<h3 align="center">3. Hotel Rooftop Blog</h3>
+
+- **Project Type**: Fullstack  
+- **Technologies**: JavaScript, React, Node.js, Express.js, MongoDB, CSS3  
+- **Description**: A blog platform for hotel and rooftop reviews, built with the MERN stack. Implemented user authentication, CRUD operations, and a commenting system for user engagement. Optimized performance and ensured responsiveness across devices.  
+- **Deployed Link**: [Live Demo](https://hotels-rooftop-blog-frontend.vercel.app/)  
+- **GitHub Link**: [Repository](https://github.com/AryaKS01/Hotel_Rooftop_Blog)  
 
 <h2 align="center">📊 My GitHub Statistics</h2>
 
@@ -86,11 +85,10 @@
 <h1 align="center">Let's Get Connected</h1>
 
 <div align="center">
-  <a href="www.linkedin.com/in/arya-kumar-sundaram-888263320" target="_blank">
+  <a href="https://www.linkedin.com/in/arya-kumar-sundaram-888263320" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aryaworks24@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
