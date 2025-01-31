@@ -13,8 +13,6 @@
 
 🌱 I’m currently learning **Node.js**.
 <br><br>
-🤔 Check Out my <a href="https://github.com/AryaKS01?tab=repositories">Resume</a> ([Download PDF](https://github.com/AryaKS01/README/blob/main/AryaKumarSundaram-NodeJSDeveloper-bUl1.pdf))
-<br><br>
 👨‍💻 Know more about me <a href="https://aryaportfolio-nine.vercel.app/">Portfolio</a>
 <br><br>
 😄 All of my projects are available at <a href="https://github.com/AryaKS01?tab=repositories">My Github Repositories</a>
