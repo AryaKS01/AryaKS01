@@ -11,7 +11,7 @@
 
 <h2 align="center">💫 About Me </h2>
 
-🌱 I’m currently learning **Node.js**.
+🌱 I’m currently learning **System Design**.
 <br><br>
 👨‍💻 Know more about me <a href="https://aryaportfolio-nine.vercel.app/">Portfolio</a>
 <br><br>
@@ -46,8 +46,8 @@
 - **Project Type**: Fullstack  
 - **Technologies**: HTML, CSS3, Tailwind CSS, JavaScript, AOS, FontAwesome  
 - **Description**: This project is a clone of the official Casio website, developed as part of a construct week assignment. The primary objective is to replicate the core functionalities and design of the original site, providing users with a seamless experience similar to the official Casio platform. Features include product browsing, sorting, user authentication, and support pages.  
-- **Deployed Link**: [Deployed App Link](https://beamish-swan-e2cb71.netlify.app/)  
-- **GitHub Link**: [Code Walkthrough](https://github.com/AryaKS01/Construct_Week_Casio_Website?tab=readme-ov-file)  
+- **Deployed Link**: [Live Demo](https://beamish-swan-e2cb71.netlify.app/)  
+- **GitHub Link**: [Repository](https://github.com/AryaKS01/Construct_Week_Casio_Website?tab=readme-ov-file)  
 
 <h3 align="center">2. Journey Nest</h3>
 
