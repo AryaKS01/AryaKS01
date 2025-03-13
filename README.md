@@ -53,7 +53,7 @@
 
 - **Project Type**: Fullstack  
 - **Technologies**: React.js, Tailwind CSS, AntD, GSAP, Locomotive.js, Node.js, Express.js, MongoDB, 
-- **Description**: A MERN stack note-taking app with JWT authentication, CRUD operations, note downloads, and a modern UI/UX.  
+- **Description**: A full-stack MERN application for managing notes with JWT-based authentication, featuring CRUD operations, note downloads, and a modern, responsive UI/UX using React.js, Tailwind CSS, and smooth scrolling effects.  
 - **Deployed Link**: [Live Demo](https://memories-a-note-app-main-1efy.vercel.app/)  
 - **GitHub Link**: [Repository](https://github.com/AryaKS01/Memories-a-note-app-main)  
 
