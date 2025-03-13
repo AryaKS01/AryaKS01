@@ -49,13 +49,13 @@
 - **Deployed Link**: [Live Demo](https://beamish-swan-e2cb71.netlify.app/)  
 - **GitHub Link**: [Repository](https://github.com/AryaKS01/Construct_Week_Casio_Website?tab=readme-ov-file)  
 
-<h3 align="center">2. Journey Nest</h3>
+<h3 align="center">2. Memories Notes App</h3>
 
 - **Project Type**: Fullstack  
-- **Technologies**: Node.js, Express.js, MongoDB, HTML5, CSS3, JavaScript, EJS, Passport.js  
-- **Description**: A travel listing platform where users can create, browse, and review travel destinations. Implemented secure user authentication, session management, and dynamic data visualization for user interactions. Integrated MongoDB for efficient data storage and retrieval.  
-- **Deployed Link**: [Live Demo](https://journeynest.onrender.com/listings)  
-- **GitHub Link**: [Repository](https://github.com/AryaKS01/journey-nest/tree/main)  
+- **Technologies**: React.js, Tailwind CSS, AntD, GSAP, Locomotive.js, Node.js, Express.js, MongoDB, 
+- **Description**: A MERN stack note-taking app with JWT authentication, CRUD operations, note downloads, and a modern UI/UX.  
+- **Deployed Link**: [Live Demo](https://memories-a-note-app-main-1efy.vercel.app/)  
+- **GitHub Link**: [Repository](https://github.com/AryaKS01/Memories-a-note-app-main)  
 
 <h3 align="center">3. Hotel Rooftop Blog</h3>
 
